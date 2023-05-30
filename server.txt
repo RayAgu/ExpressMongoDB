@@ -1,0 +1,5 @@
+PPcsb5fRmCdQDRCb
+
+mongodb+srv://aguyeraymond:PPcsb5fRmCdQDRCb@cluster0.ihwf957.mongodb.net/
+
+git remote add origin https://github.com/RayAgu/ExpressMongoDB.git
